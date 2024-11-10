@@ -7,26 +7,26 @@ File Structure
 
 Requirements
 
-    Download XMRig: Download the Windows version of XMRig from https://xmrig.com/download. Extract the .zip file and place xmrig.exe in the bin/ folder.
+Download XMRig: Download the Windows version of XMRig from https://xmrig.com/download. Extract the .zip file and place xmrig.exe in the bin/ folder.
 
-    Create a Monero Wallet Address: If you don't have a Monero wallet, you can create one using services like MyMonero or Monero GUI Wallet. Save your wallet address; it will be needed to receive mining rewards.
+Create a Monero Wallet Address: If you don't have a Monero wallet, you can create one using services like MyMonero or Monero GUI Wallet. Save your wallet address; it will be needed to receive mining rewards.
 
 Configuration
 
-    Configure the config.json File:
-        Access the config.json file in the config/ folder and adjust the settings by replacing placeholders (such as the wallet address) with your own information.
+Configure the config.json File:
+    Access the config.json file in the config/ folder and adjust the settings by replacing placeholders (such as the wallet address) with your own information.
 
-    Start and Stop the Miner:
-        Run the start_miner.bat file in the scripts/ folder to launch the miner.
-        Use the stop_miner.bat file to safely stop the mining process.
+Start and Stop the Miner:
+    Run the start_miner.bat file in the scripts/ folder to launch the miner.
+    Use the stop_miner.bat file to safely stop the mining process.
 
-    Check Your Earnings:
-        Visit your mining pool's website using your wallet address to track your mining earnings and monitor your mining activity.
+Check Your Earnings:
+    Visit your mining pool's website using your wallet address to track your mining earnings and monitor your mining activity.
 
 Scripts
 
-    start_miner.bat: Script to start the miner with the settings defined in the configuration file.
-    stop_miner.bat: Script to safely stop the running mining process.
+start_miner.bat: Script to start the miner with the settings defined in the configuration file.
+stop_miner.bat: Script to safely stop the running mining process.
 
 Disclaimer
 
