@@ -5,16 +5,6 @@ MoneroMiner
 MoneroMiner is a project for mining Monero (XMR) cryptocurrency directly from your Windows PC using the XMRig tool. This guide provides step-by-step instructions for setting up the project, mining efficiently, and sending mining rewards to your Monero wallet.
 File Structure
 
-MoneroMiner/
-├── bin/
-│   └── xmrig.exe               # Main executable for the miner
-├── config/
-│   └── config.json             # Main configuration file for the miner
-├── scripts/
-│   ├── start_miner.bat         # Script to start the miner
-│   └── stop_miner.bat          # Script to safely stop the miner
-└── README.md                   # Usage instructions
-
 Requirements
 
     Download XMRig: Download the Windows version of XMRig from https://xmrig.com/download. Extract the .zip file and place xmrig.exe in the bin/ folder.
