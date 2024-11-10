@@ -34,4 +34,4 @@ Mining consumes system resources and can cause CPU overheating. Be sure to monit
 
 # Anti virus 
 
-some anti virus block to delete “xmrig.exe”, is not a virus, it is what makes the miner work, if there is a problem with your anti virus please disable it.
+Some anti virus block or delete “xmrig.exe”, is not a virus, it is what makes the miner work, if there is a problem with your anti virus please disable it.
