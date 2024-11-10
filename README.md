@@ -7,8 +7,6 @@ MoneroMiner is a project for mining Monero (XMR) cryptocurrency directly from yo
 
 # Requirements
 
-Download XMRig: Download the Windows version of XMRig from https://xmrig.com/download. Extract the .zip file and place xmrig.exe in the bin/ folder.
-
 Create a Monero Wallet Address: If you don't have a Monero wallet, you can create one using services like MyMonero or Monero GUI Wallet. Save your wallet address; it will be needed to receive mining rewards.
 
 
