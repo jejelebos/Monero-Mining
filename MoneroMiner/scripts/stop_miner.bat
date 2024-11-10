@@ -1,5 +1,5 @@
 @echo off
 echo Monero miner stop...
 taskkill /F /IM xmrig.exe > nul
-echo Mineur arrete.
+echo Arrested minor.
 pause
