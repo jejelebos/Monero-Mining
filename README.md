@@ -31,3 +31,7 @@ stop_miner.bat: Script to safely stop the running mining process.
 # Disclaimer
 
 Mining consumes system resources and can cause CPU overheating. Be sure to monitor your machine's temperature to prevent hardware damage.
+
+# Anti virus 
+
+some anti virus block to delete “xmrig.exe”, is not a virus, it is what makes the miner work, if there is a problem with your anti virus please disable it.
