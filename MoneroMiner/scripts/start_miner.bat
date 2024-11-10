@@ -1,5 +1,5 @@
 @echo off
 cd ..\bin
-echo Demarrage du mineur Monero...
+echo Monero miner startup...
 xmrig.exe -c ..\config\config.json
 pause
