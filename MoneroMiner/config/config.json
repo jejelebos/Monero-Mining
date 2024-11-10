@@ -1,4 +1,6 @@
 {
+  "log-file": "log/miner.log",
+  "syslog": true,
   "autosave": true,
   "cpu": true,
   "pools": [
